@@ -37,5 +37,12 @@ Clean and standardise the sales data of a fictitious cafe.
 * All dates successfully parsed.
 * No missing values in  financial fields.
 
+# Data Source
+The dataset used in this project is deliberately messy for the purpose of data cleaning practice. It was obtained from:
+
+Source: **Kaggle** - Cafe Sales - Dirty Data for Cleaning Training
+
+URL: https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training
+
 # Author
 Jayden Tan
